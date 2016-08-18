@@ -1,5 +1,5 @@
 # webuploader, 最短小精悍的文件上传实现
-html5 uploader
+html5 uploader, 要求支持FormData对象
 #使用方法
 极其简单
 <pre><code>
